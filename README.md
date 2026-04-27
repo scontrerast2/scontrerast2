@@ -1,16 +1,46 @@
-## Hola, soy sebastian Contreras 👋
+# ¡Hola! Soy Sebastian 👋
 
-<!--
-**scontrerast2/scontrerast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de ingenieria de sistemas y computacion en la Universidad Nacional de Colombia
 
-Here are some ideas to get you started:
+He creado este espacio para compartir mis proyectos, mi aprendizaje y mi pasión por la tecnología. ¡Bienvenido/a a mi rincón en GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💫 Sobre mí
+
+- 🔭 **Actualmente trabajando en:** RetroTrack
+- 🌱 **Aprendiendo sobre:** Ingenieria de Software
+- ⚡ **Dato curioso:** Soy apasionado por el ciclismo
+
+---
+
+## 🚀 Mis Tecnologías
+
+### Lenguajes y Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,react,nodejs,git,docker,postgres,aws" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=radical" alt="Estadísticas de [Tu Nombre]" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+---
+
+## 🛠️ Proyectos Destacados
+
+| Proyecto | Descripción | Link |
+| :--- | :--- | :--- |
+| **RetroTrack** | Gestion de inventario de videojuegos | [🔗 Ver más](https://github.com/Software-con-Ingenio) |
+
+---
+
+## 📫 Cómo encontrarme
+
+<p align="left">
+<a href="[LINK_LINKEDIN]" target="blank"><img align="center" src="https://raw.scontrerast.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"

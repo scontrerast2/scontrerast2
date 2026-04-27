@@ -18,7 +18,7 @@ He creado este espacio para compartir mis proyectos, mi aprendizaje y mi pasión
 
 ### Lenguajes y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,py,html,css,react,nodejs,git,docker,postgres,aws" />
+  <img src="https://skillicons.dev/icons?i=py,html,git,postgres,c++" />
 </p>
 
 ---
@@ -26,8 +26,8 @@ He creado este espacio para compartir mis proyectos, mi aprendizaje y mi pasión
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=radical" alt="Estadísticas de [Tu Nombre]" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=scontrerast&show_icons=true&theme=radical" alt="Estadísticas de Sebastian" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scontrerast&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---

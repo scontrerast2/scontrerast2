@@ -42,5 +42,4 @@ He creado este espacio para compartir mis proyectos, mi aprendizaje y mi pasión
 
 ## 📫 Cómo encontrarme
 
-<p align="left">
-<a href="[LINK_LINKEDIN]" target="blank"><img align="center" src="https://raw.scontrerast.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"
+correo: scontrerast@unal.edu.co

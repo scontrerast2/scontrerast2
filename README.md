@@ -18,19 +18,12 @@ He creado este espacio para compartir mis proyectos, mi aprendizaje y mi pasión
 
 ### Lenguajes y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,html,git,postgres,c++" />
+  <img src="https://skillicons.dev/icons?i=py,html,git,postgres,cpp,c,php" />
 </p>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scontrerast&show_icons=true&theme=radical" alt="Estadísticas de Sebastian" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scontrerast&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
+He trabajado en programacion y programacion orientada a objetos en multiples lenguajes, que incluyen python, c++, c, php, entre otros. Con proyectos relacionados a desarrollo de software e inteligencia artificial.
+Tengo un curso de Python intermedio con cisco Networking Academy y OpenEDG. 
+Tengo un diplomado en analisis de datos con la universidad nacional.
 
 ## 🛠️ Proyectos Destacados
 
